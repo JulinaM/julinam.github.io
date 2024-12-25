@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Julina Maharjan"
+title                    : "Research | Code | Innovate"
 title_separator          : "-"
-name                     : &name "Julin Maharjan"
+name                     : &name "Julina Maharjan"
 description              : &description "personal description"
 url                      : https://julinam.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "julina_profile.jpeg"
   name             : "Julina Maharjan"
-  pronouns         : "she/her"  
+  pronouns         : "(She/Her)"
   bio              : "PhD Candidate in Computer Science"
   location         : "Kent, OH"
   employer         : "Kent State University"

@@ -14,7 +14,7 @@ Hello! I’m Julina Maharjan, PhD Candidate in Computer Science, Graduate Resear
 ## About Me
 I have a strong academic background in Deep Learning/Natural Language Processsing and have been involved in projects that aim to Decoding the concept of Deep Learning/Natural Language Processsing to understand how machine learns to understand human language. My journey in research has led me to collaborate with interdisciplinary teams, publish impactful papers, and contribute to advancing knowledge in my area of expertise.
 
-When I’m not immersed in my work, I enjoy hiking, and bouldering.
+When I'm not researching, you'll often find me reconnecting with nature or staying energized through fitness activities. I believe in balancing intellectual curiosity with personal well-being.
 
 ---
 
