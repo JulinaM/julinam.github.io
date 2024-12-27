@@ -52,7 +52,8 @@ When I'm not researching, you'll often find me reconnecting with nature or stayi
 ---
 
 ## Contact Me
-Feel free to reach out if you’re interested in collaborating or learning more about my work. You can contact me via [jmaharja@kent.edu] or connect with me on [LinkedIn](https://www.linkedin.com/in/julinamaharjan/).
+Feel free to connect if you’re interested in collaborating or learning more about my work. You can reach me at [jmaharja@kent.edu](mailto:jmaharja@kent.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/julinamaharjan/).
+
 
 ---
 
