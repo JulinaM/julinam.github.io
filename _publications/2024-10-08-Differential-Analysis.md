@@ -4,11 +4,11 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-08-10-Differential-Analysis
 excerpt: 'User Demographics are often hidden in social media data due to privacy concerns. However, demographic information on Substance Use can provide valuable insights, allowing Public Health policymakers to focus on specific cohorts and develop efficient prevention strategies, especially during global crises like COVID-19.'
-date: 2024-08-10
-venue: 'JMIR 2024'
+date: 2024-10-08
+venue: 'JMIR (Journal of Medical Internet Research) 2024'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Maharjan J, Jin R, King J, Zhu J, Kenne D, Jin R (2024). &quot;Emotion in Substance Use Discourse on Twitter during the COVID-19 Pandemic: An NLP Approach.&quot; <i>JMIR 2024 Preprints</i>. 08/10/2024:6733.'
+citation: 'Maharjan J, Jin R, King J, Zhu J, Kenne D Differential Analysis of Age, Gender, Race, Sentiment, and Emotion in Substance Use Discourse on Twitter during the COVID-19 Pandemic: An NLP Approach JMIR Preprints. 08/10/2024:67333'
 ---
 
 ### Objective:

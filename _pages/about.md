@@ -28,13 +28,17 @@ When I'm not researching, you'll often find me reconnecting with nature or stayi
 ---
 
 ## Recent Publications
-1. **[Large-Scale Analysis of Substance Use Trends during COVID-19: An Advanced Deep Learning Approach](https://preprints.jmir.org/preprint/59076)**  
-   *J Med Internet Res, 2024*  
-   Substance Use trend is highly seen during covid-19 due to various repercussion reasons amidst pandemic. Our study aims to make a comparison study a year before and after covid-19, analyze the themes and pattern associated with drug use in the study period.
+1. **[Large-Scale Deep Learning–Enabled Infodemiological Analysis of Substance Use Patterns on Social Media: Insights From the COVID-19 Pandemic](https://infodemiology.jmir.org/2025/1/e59076)**  
+   *J Med Internet Res, 2025*  
+   The COVID-19 pandemic intensified the challenges associated with mental health and substance use (SU), with societal and economic upheavals leading to heightened stress and increased reliance on drugs as a coping mechanism. Centers for Disease Control and Prevention data from June 2020 showed that 13% of Americans used substances more frequently due to pandemic-related stress, accompanied by an 18% rise in drug overdoses early in the year. Simultaneously, a significant increase in social media engagement provided unique insights into these trends. Our study analyzed social media data from January 2019 to December 2021 to identify changes in SU patterns across the pandemic timeline, aiming to inform effective public health interventions.
 
-2. **[Differential Analysis of Age, Gender, Race, Sentiment, and Emotion in Substance Use Discourse on Twitter during the COVID-19 Pandemic: An NLP Approach](https://doi.org/10.2196/preprints.67333)**  
-   *JMIR, 2024:67333*  
+2. **[Differential Analysis of Age, Gender, Race, Sentiment, and Emotion in Substance Use Discourse on Twitter during the COVID-19 Pandemic: An NLP Approach](https://preprints.jmir.org/preprint/67333)**  
+   *JMIR, 2025*  
    User Demographics are often hidden in social media data due to privacy concerns. However, demographic information on Substance Use can provide valuable insights, allowing Public Health policymakers to focus on specific cohorts and develop efficient prevention strategies, especially during global crises like COVID-19.
+
+3. **[Do Large Language Models (LLMs) Really Understand Personality? A Test of Embeddings vs. Zero-Shot](https://doi.org/10.2196/preprints.67333)**  
+   *JMIR, 2025*  
+   Recent advancements in Large Language Models (LLMs) have sparked interdisciplinary interest in their ability to assess psychological constructs, particularly Personality. While prior machine learning research has focused on evaluating LLMs’ capability to infer personality traits, often via zero-shot or few-shot learning, few studies have systematically examined the applicability of LLM embeddings for Personality Prediction within a robust psychometric validity framework or explored their correlation with psychological and linguistic features. Addressing this gap, we investigate performance of LLM embeddings on a well-labeled PANDORA dataset (Big Five Personality traits from Reddit).
 
 [View all publications →](publications/)
 
