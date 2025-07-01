@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-04-01-Do-Large-Lang-Modal-Understand-Personality
 excerpt: 'User Demographics are often hidden in social media data due to privacy concerns. However, demographic information on Substance Use can provide valuable insights, allowing Public Health policymakers to focus on specific cohorts and develop efficient prevention strategies, especially during global crises like COVID-19.'
 date: 2025-04-01
-venue: 'J Med Internet Res 2025'
+venue: 'Journal of Medical Internet Research 2025'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Maharjan J Do Large Language Models (LLMs) Really Understand Personality? A Test of Embeddings vs. Zero-Shot JMIR Preprints. 01/04/2025:75347'

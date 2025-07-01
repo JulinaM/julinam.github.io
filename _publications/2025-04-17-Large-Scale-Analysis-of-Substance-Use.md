@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-04-01-Large-Scale-Analysis-of-Substance-Use
 excerpt: 'The COVID-19 pandemic intensified the challenges associated with mental health and substance use (SU), with societal and economic upheavals leading to heightened stress and increased reliance on drugs as a coping mechanism. Centers for Disease Control and Prevention data from June 2020 showed that 13% of Americans used substances more frequently due to pandemic-related stress, accompanied by an 18% rise in drug overdoses early in the year. Simultaneously, a significant increase in social media engagement provided unique insights into these trends. Our study analyzed social media data from January 2019 to December 2021 to identify changes in SU patterns across the pandemic timeline, aiming to inform effective public health interventions.'
-date: 2025-03-02
-venue: 'J Med Internet Res 2025'
+date: 2024-04-01
+venue: 'J Med Internet Res 2024'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Maharjan J, Zhu J, King J, Phan N, Kenne D, Jin R Large-Scale Deep Learning–Enabled Infodemiological Analysis of Substance Use Patterns on Social Media: Insights From the COVID-19 Pandemic JMIR Infodemiology 2025;5:e59076'
