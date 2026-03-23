@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Julina Maharjan, Ph.D. graduate in Computer Science at Kent State University. Specializes in Deep Learning and Foundational Models, and developing end-to-end ML pipelines across multimodal domains like psychology, public healh, and earth observation. Experienced in optimizating and scaling AI solutions using big data technologies. Hands on experience delivering services to end users in production environment. Passionate about advancing AI research to solve real-world language challenges.
+Hello! I’m Julina Maharjan, Ph.D. graduate in Computer Science at Kent State University. Specializes in Deep Learning and Foundational Models, and developing end-to-end ML pipelines across multimodal domains like psychology, public health, and earth observation. Experienced in optimizating and scaling AI solutions using big data technologies in high performing supercomputers. Passionate about advancing AI research to solve real-world language challenges.
 
 ---
 
@@ -19,10 +19,11 @@ When I'm not researching, you'll often find me reconnecting with nature or stayi
 ---
 
 ## Research Interests
-- Foundational Models (Pretraining/Finetuning)
+- Advancing Foundational Models (Pretraining/Finetuning)
 - LoRA as a Parameter Effiencint Fine Tuning (PEFT)
 - Representation Learning
-- Auto-Enabling - Active Learning, RLHF, pseudo labeling
+- Auto-Labeling like Active Learning, RLHF, pseudo labeling
+- Model Optimization
 ---
 
 ## Recent Publications
