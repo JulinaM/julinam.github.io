@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "AI Research Scientist – NLP & LLMs"
+title: "ML Engineer/Scientist"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,19 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Kent State University, 2025 (expected)
+* Ph.D in Computer Science, Kent State University, 2025 
 * M.S. in Computer Science, Kent State University, 2022
 * B.E. in Computer Engineering, Kantipur Enginnering College, 2014
 
  Research Experience & Professional
 ======
 ### **🧑‍🔬 Research Experience**  
-#### **Ph.D. Researcher – Kent State University**  
-📍 Kent, OH | **2018 – Present**  
-- Conducting research in **Transformer-based LLMs, NLP, and multimodal AI**.  
-- Working on **pretraining & finetuning of large-scale language models** for **social science applications**.  
-- Developing **scalable deep learning architectures** optimized for **big data & real-time inference**.  
-- Exploring **model interpretability, explainability, and bias mitigation in LLMs**.  
+#### **Ph.D. – Kent State University**  
+📍 Kent, OH | **2025**  
+- Fesearch focused on **Applied AI on Mental Health doman **.  
+- Working on **pretraining/finetuning LLM ** for **AI in Mental Health**.  
+- **Gradient Approximation based LoRA (Low Rank Adaptation Method)**.  
 
 #### **Research Intern – Ph.D. 2022**  
 📍 *IBM Research, Yorktown Heights, NY* | **Summer 2022**  
@@ -63,16 +62,17 @@ Skills
 ======
 * **Programming & AI**  
   * **Python** (PyTorch, TensorFlow, JAX)  
-  * **LLMs & NLP** (Transformers, BERT, GPT, T5)  
-  * **Deep Learning** (CNNs, RNNs, Attention Mechanisms)  
-  * **Pretraining & Finetuning** (Self-supervised learning, Contrastive Learning)  
+  * **Foundational Models** (Llama, Claude, GPT, T5, Mistral, BERT, ViT, CLIP, Terramind)  
+  * **Deep Learning** (RNN/LSTM, CNN, Attention Mechanisms, Auto encoders, Constractive Learing, Active Learning, RL, RLHF)  
+  * **Pretraining & Finetuning** (PEFT methods like LoRA)  
+  * **ML Libraries** Huggingface, PyTorch, TensorFlow, Scikit-learn, JAX, pytorch-lightening, Transformers, Langchain, LlamaIndex, vLLM, Weights & Biases, Hyrda, Optuna, Deepspeed, CUDA, ROCm, HIP
   * **CUDA & Parallel Computing**  
 * **Big Data & ML Engineering** 
-  * ***Distributed Computing** (Hadoop, Spark, MapReduce)  
+  * ***Distributed Computing** (Hadoop, Spark, MapReduce, Databricks, Kafka)  
   * ***ML Optimization** (Model Compression, Quantization, Pruning)  
-  * ***Databases** (MongoDB, HBase, Neo4j, SQL)  
+  * ***Databases** (MongoDB, HBase, ElasticSearch, Neo4j, SQL, Pinecone)  
 * **Big Data & ML Engineering**  
-  * **Git, Docker, Kubernetes**  
+  * **Git, Postman, MLFlow, Docker, Kubernetes, Copilot, Jira**  
   * **Jupyter, Anaconda, Linux**  
   * **Cloud Platforms** (AWS, GCP, Azure) 
 
@@ -97,8 +97,8 @@ Teaching
   ---
 
 ### **Key Highlights**  
-✅ **Strong focus on Transformer-based LLMs and NLP**  
-✅ **Experience in large-scale AI models, pretraining, and optimization**  
+✅ **Strong focus on Finetuning multi-modal Foundational Models**  
+✅ **Experience in end-to-end ML system design**  
 ✅ **Industry + Research background (IBM + Ph.D. Research)**  
-✅ **Deep learning expertise in scalability, efficiency, and big data processing**  
-✅ **Publications in AI & NLP, demonstrating research contributions**  
+✅ **Deep learning expertise in optimization, scalability, efficiency, and big data processing**  
+✅ **Publications in AI in NLP and vision, demonstrating research contributions**  
